@@ -1,0 +1,12 @@
+# 忽略虚拟环境
+venv/
+.venv/
+env/
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
