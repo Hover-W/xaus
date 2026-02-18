@@ -67,7 +67,3 @@ python xaus.py --help
 
 **文件**
 - 主脚本：[xaus.py](xaus.py)
-
----
-
-如果你希望我：生成 `requirements.txt`、把绘图改为保存图片而非弹窗，或把功能封装成函数并写单元测试，请告诉我下一步要做什么。
